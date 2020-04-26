@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GeoSystem</string>
+    <string name="login">login</string>
+    <string name="ruta">Registar Ruta</string>
+    <string name="siguiente1">NEXT</string>
+    <string name="siguientepunto">Siguiente Punto</string>
+    <string name="endpoint">Final Ruta</string>
+    <string name="newuser">Crear Nuevo Usuario</string>
+    <string name="upload">Cargar Ruta Existente</string>
+    <string name="exportar">Exportar Datos Ruta</string>
+    <string name="salir">Salir</string>
+</resources>

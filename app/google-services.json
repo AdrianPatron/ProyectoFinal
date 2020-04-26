@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359262320445",
+    "firebase_url": "https://geosystem-ed0fe.firebaseio.com",
+    "project_id": "geosystem-ed0fe",
+    "storage_bucket": "geosystem-ed0fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359262320445:android:2b6f7048ccea7e2d533754",
+        "android_client_info": {
+          "package_name": "com.example.proyectofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359262320445-o0bq0svhfso0sb1q59vvm9v841ptocb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCCCFjeu0DaCAXkyz1_vsDsTRnPjZI1NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359262320445-o0bq0svhfso0sb1q59vvm9v841ptocb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
